@@ -71,4 +71,9 @@ div.sectionStyle:hover{
     }
 }
 
+@media (max-width: 767px){
+    .nav-item{
+        text-align: center;
+    }
+}
 
